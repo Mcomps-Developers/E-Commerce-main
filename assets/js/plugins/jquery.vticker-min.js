@@ -6,7 +6,7 @@
  *
  * Copyright 2013 Tadas Juozapaitis
  * Released under the MIT license:
- *   http://www.opensource.org/licenses/mit-license.php
+ *   http://www.opensource.org/licenses/mit-license.html
  */
 (function($) {
     $.fn.vTicker = function(options) {
